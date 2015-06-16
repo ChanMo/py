@@ -1,5 +1,5 @@
 #! user/bin/env python
-
+# -*- coding: UTF-8 -*-
 import string
 
 alphas = string.letters + '_'
